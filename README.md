@@ -1,4 +1,6 @@
-SOUNDNOTES: Notes App with Transciption
+# SOUNDNOTES: Notes App with Transciption
+
+
 ![soundnotes-high-resolution-logo](https://github.com/user-attachments/assets/edc8e30c-2b5c-44ea-baba-179cf58f1517)
 
 
