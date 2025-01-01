@@ -8,14 +8,14 @@
 ## Features
 - Different folders for organization
 - Live transcription note making
-- multiple accounts
+- Multiple accounts
   
 ## Screenshots
-![Screen 1](screenshots/screen1.png)
-_Home screen of the app_
+![foldersorg](https://github.com/user-attachments/assets/40d8bd9e-8e5b-42b4-9258-6188d24c34ab)
+_Folder organization_
 
-![Screen 2](screenshots/screen2.png)
-_Feature XYZ in action_
+![transcribe](https://github.com/user-attachments/assets/f88df22c-c970-4c01-ac11-f070eb756708)
+_Transcribe feature_
 
 
 ## Installation
