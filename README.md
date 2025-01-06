@@ -11,10 +11,11 @@
 - Multiple accounts
   
 ## Screenshots
-![foldersorg](https://github.com/user-attachments/assets/40d8bd9e-8e5b-42b4-9258-6188d24c34ab)
+
+<img src="https://github.com/user-attachments/assets/40d8bd9e-8e5b-42b4-9258-6188d24c34ab" width="50%" />
 _Folder organization_
 
-![transcribe](https://github.com/user-attachments/assets/f88df22c-c970-4c01-ac11-f070eb756708)
+<img src="https://github.com/user-attachments/assets/f88df22c-c970-4c01-ac11-f070eb756708" width="50%" />
 _Transcribe feature_
 
 
